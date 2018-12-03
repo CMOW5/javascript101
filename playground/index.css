@@ -1,0 +1,13 @@
+.outer {
+  background-color: red;
+  text-align: center;
+  height: 300px;
+}
+
+.inner {
+  background-color: yellow;
+  height: 250px;
+  margin: 0 auto;
+  text-align: center;
+  width: 50%;
+}
